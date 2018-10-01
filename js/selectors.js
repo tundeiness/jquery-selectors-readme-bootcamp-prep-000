@@ -1,2 +1,5 @@
 // declare your functions here...
-$('p')
+$(document).ready(function() {
+  
+  $('p');
+});
